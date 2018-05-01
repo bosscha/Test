@@ -1,1 +1,2 @@
 print("tototo")
+print
